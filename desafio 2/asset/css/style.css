@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+}
+
+.header{
+    text-align: center;
+    background-image:url(https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80);
+    background-position: center;
+    background-size: cover;
+    color: black;
+    height: 10em;
+    padding: 2em;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header h1{
+    margin: 0;
+    font-weight: 400;
+    padding: 0.75em;
+    font-size: 2em;
+}
+.header p{
+    margin: 0;
+    padding-top: 0.7em;
+    font-size: 1em;
+}
+
+.contenido{
+    font-size: 3em;
+    text-align: center;
+    color: black;;
+    width: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contenido td{
+    width: 1em;
+    padding: 2em;
+}
+.contenido img{
+      width: 7em;
+}
+footer{
+    margin: auto;
+    color: olive;
+}
+.contacto{
+    background-color: coral;
+    color: black;
+}
+.contacto h1{
+    color: black;
+    text-align: center;
+}
